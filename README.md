@@ -23,7 +23,10 @@ const alumni = [
 {name:'Shemar', job:'SquareSpace',language:'JavaScript', age:23},
 {name:'Cielo', job:'NYT',language:'JavaScript', age:21},
 {name:'Carmen', job:'Marcy Lab School',language:'JavaScript', age:21},
-{name:'Itzel', job:'Marcy Lab School',language:'JavaScript', age:22}]
+{name:'Itzel', job:'Marcy Lab School',language:'JavaScript', age:22},
+{name:'Ray', job:'Square Space',language:'JavaScript', age:20},
+{name:'Jan', job:'Square Space',language:'JavaScript', age:22},
+{name:'Uzma', job:'Time Share',language:'JavaScript', age:22}]
 ```
 
 
