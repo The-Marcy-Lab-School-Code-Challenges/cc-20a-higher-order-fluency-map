@@ -56,6 +56,7 @@ const alumni = [
       { name: 'Enmanuel', job: 'Asana', language: 'ES6', age: 21 },
       { name: 'Shemar', job: 'SquareSpace', language: 'ES6', age: 23 },
       { name: 'Cielo', job: 'NYT', language: 'ES6', age: 21 }
+      ...
     ]
     ```
 
